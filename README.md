@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somil Singh</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
-<img align="right" width+"300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somilsingh01&label=Profile%20views&color=0e75b6&style=flat" alt="somilsingh01" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **somilsingh3103@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1nVkhdAjiZmoH-Q_w_ilRDZV8dkSSUmFV/edit?usp=drive_link&ouid=109686316759537060276&rtpof=true&sd=true](https://docs.google.com/document/d/1nVkhdAjiZmoH-Q_w_ilRDZV8dkSSUmFV/edit?usp=drive_link&ouid=109686316759537060276&rtpof=true&sd=true)
+- 📄 My Resume: [https://docs.google.com/document/d/1nVkhdAjiZmoH-Q_w_ilRDZV8dkSSUmFV/edit?usp=drive_link&ouid=109686316759537060276&rtpof=true&sd=true](https://docs.google.com/document/d/1nVkhdAjiZmoH-Q_w_ilRDZV8dkSSUmFV/edit?usp=drive_link&ouid=109686316759537060276&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I love solving rubix cube and puzzle.**
 
